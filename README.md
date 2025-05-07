@@ -1,4 +1,4 @@
-![Banner](assets/Github-BSA.webp)
+![Banner](Github-BSA.webp)
 
 ### 🔍 Scanned User Profile  
 
